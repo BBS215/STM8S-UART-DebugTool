@@ -6,7 +6,7 @@
 
 Использование:
 
-DebugTool.exe l/list/read/r/write/w width(8/16bit) register_addr register_data
+DebugTool.exe l/list/read/r/write/w COM_port_name width(8/16bit) register_addr register_data
 
 
 Список COM портов: DebugTool.exe list
